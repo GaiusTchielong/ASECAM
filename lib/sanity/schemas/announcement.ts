@@ -1,0 +1,1 @@
+export default {name:'announcement',title:'Annonce',type:'document',fields:[{name:'title',title:'Titre',type:'string'},{name:'date',title:'Date',type:'date'},{name:'body',title:'Corps',type:'text'}]};

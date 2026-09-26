@@ -1,0 +1,1 @@
+export default {name:'memberBusiness',title:'Membre / Business',type:'document',fields:[{name:'name',title:'Nom',type:'string'},{name:'activity',title:'Activité ou compétence',type:'string'},{name:'description',title:'Description',type:'text'},{name:'contact',title:'Contact',type:'string'},{name:'poster',title:'Affiche ou visuel',type:'image',options:{hotspot:true}}]};
