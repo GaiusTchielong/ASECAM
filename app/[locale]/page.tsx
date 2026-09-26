@@ -1,0 +1,1 @@
+export default function Home(){return <main className="container-shell py-24"><p className="eyebrow">ASECAM</p><h1 className="font-display mt-4 text-5xl font-semibold">Une communauté camerounaise à Madagascar.</h1><p className="prose-copy mt-6 max-w-2xl">Bienvenue sur le futur site de l&apos;ASECAM.</p></main>}
