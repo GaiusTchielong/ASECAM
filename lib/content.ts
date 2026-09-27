@@ -1,0 +1,11 @@
+import { sanityFetch } from './sanity/client';
+import { membersQuery,informationQuery,announcementsQuery } from './sanity/queries';
+export type Member={_id:string;name:string;activity:string;description:string;contact:string;poster?:unknown};
+export type Post={_id:string;title:string;date:string;body:string;status?:string};
+// TODO contenu réel
+export const fallbackMembers:Member[]=[{_id:'member-1',name:'Nadia M.',activity:'Pâtisserie artisanale',description:'Des créations sur commande pour les moments qui comptent, préparées à Antananarivo.',contact:'Contact via ASECAM'},{_id:'member-2',name:'Boris T.',activity:'Accompagnement numérique',description:'Initiation aux outils numériques et soutien aux petites activités des membres.',contact:'Contact via ASECAM'},{_id:'member-3',name:'Claudine E.',activity:'Mode & accessoires',description:'Une sélection d’accessoires inspirés des savoir-faire camerounais et malgaches.',contact:'Contact via ASECAM'}];
+export const fallbackInformation:Post[]=[{_id:'info-1',title:'Assemblée générale annuelle',date:'2026-10-17',body:'Un temps de rencontre pour faire le bilan, partager les projets et préparer la suite.',status:'à venir'},{_id:'info-2',title:'Rencontre de rentrée',date:'2026-09-12',body:'Les membres se retrouvent pour accueillir les nouveaux étudiants.',status:'passé'}];
+export const fallbackAnnouncements:Post[]=[{_id:'announcement-1',title:'Chambre disponible à proximité d’Ankatso',date:'2026-09-28',body:'Une chambre se libère dans une colocation étudiante. Les détails sont à confirmer auprès de l’association.'},{_id:'announcement-2',title:'Opportunité de stage en communication',date:'2026-09-05',body:'Une opportunité partagée par un membre du réseau.'}];
+export async function getMembers(){return sanityFetch<Member[]>(membersQuery,fallbackMembers)}
+export async function getInformation(){return sanityFetch<Post[]>(informationQuery,fallbackInformation)}
+export async function getAnnouncements(){return sanityFetch<Post[]>(announcementsQuery,fallbackAnnouncements)}

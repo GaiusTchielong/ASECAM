@@ -1,0 +1,2 @@
+import type { MetadataRoute } from 'next';
+export default function sitemap():MetadataRoute.Sitemap{const base=process.env.NEXT_PUBLIC_SITE_URL||'https://asecam.vercel.app';const paths=['','qui-sommes-nous','services','annuaire','informations','annonces','contact'];return ['fr','en','mg'].flatMap(locale=>paths.map(path=>({url:`${base}/${locale}${path?`/${path}`:''}`,lastModified:new Date(),changeFrequency:'weekly' as const,priority:path===''?1:.7})))}

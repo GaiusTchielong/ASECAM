@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "title": "ASECAM — Association des Étudiants Camerounais de Madagascar",
+    "description": "Site officiel de l'ASECAM. Entraide, accompagnement et communauté pour les étudiants camerounais à Madagascar."
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "Qui sommes-nous",
+    "services": "Services",
+    "directory": "Annuaire",
+    "news": "Informations",
+    "announcements": "Annonces",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero_heading": "Bienvenue à l'ASECAM",
+    "hero_subheading": "Réunir les étudiants camerounais à Madagascar pour s'installer, s'adapter, se soutenir et s'autonomiser mutuellement.",
+    "cta_join": "Nous rejoindre",
+    "cta_about": "Qui sommes-nous"
+  },
+  "about": {
+    "title": "Qui sommes-nous",
+    "history_title": "Notre histoire",
+    "mission_title": "Notre mission"
+  },
+  "services": {
+    "title": "Nos services",
+    "arrival_title": "Assistance aux nouveaux arrivants",
+    "arrival_desc": "Accompagnement à l'installation et à l'adaptation des étudiants camerounais fraîchement arrivés à Madagascar.",
+    "networking_title": "Réseautage et insertion professionnelle",
+    "networking_desc": "Mise en relation avec des professionnels et des opportunités pour faciliter l'insertion sur le marché du travail.",
+    "academic_title": "Orientation académique",
+    "academic_desc": "Conseils et soutien pour le choix des filières, les démarches d'inscription et la réussite universitaire.",
+    "directory_title": "Répertoire de compétences",
+    "directory_desc": "Découvrez les talents et activités économiques des membres de l'ASECAM."
+  },
+  "directory": {
+    "title": "Annuaire des compétences et business"
+  },
+  "news": {
+    "title": "Informations"
+  },
+  "announcements": {
+    "title": "Annonces"
+  },
+  "contact": {
+    "title": "Contact",
+    "form_name": "Nom",
+    "form_email": "Email",
+    "form_subject": "Sujet",
+    "form_message": "Message",
+    "form_submit": "Envoyer",
+    "phone": "Téléphone",
+    "whatsapp": "WhatsApp",
+    "facebook": "Facebook",
+    "email": "Email"
+  },
+  "join": {
+    "heading": "Rejoignez l'ASECAM",
+    "text": "Faites partie de la communauté camerounaise à Madagascar. Ensemble, construisons un réseau d'entraide solide.",
+    "cta": "Nous contacter"
+  },
+  "footer": {
+    "rights": "ASECAM 2026. Tous droits réservés.",
+    "developer": "développé par Gaïus TCHIELONG — +237 6 95 04 41 80 / +261 34 58 079 25 — tchielong@gmail.com"
+  },
+  "newsletter": {
+    "subscribe": "S'abonner à la newsletter",
+    "email_placeholder": "Votre adresse email",
+    "submit": "S'abonner"
+  }
+}

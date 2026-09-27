@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export function ArrowLink({href,children,secondary=false}:{href:string;children:React.ReactNode;secondary?:boolean}){return <Link href={href} className={`focus-ring inline-flex items-center gap-2 rounded-full px-5 py-3 text-sm font-semibold transition ${secondary?'border border-primary text-primary hover:bg-primary hover:text-white':'bg-primary text-white shadow-soft hover:bg-primary-dark'}`}>{children}<span aria-hidden="true">→</span></Link>}

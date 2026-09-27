@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "title": "ASECAM — Fikambanan'ny Mpianatra Kameroniana eto Madagasikara",
+    "description": "Tranonkala ofisialin'ny ASECAM. Fifanampiana, fitarihana ary fiaraha-monina ho an'ny mpianatra kameroniana eto Madagasikara."
+  },
+  "nav": {
+    "home": "Fandraisana",
+    "about": "Momba anay",
+    "services": "Serivisy",
+    "directory": "Lisitra",
+    "news": "Vaovao",
+    "announcements": "Filazana",
+    "contact": "Fifandraisana"
+  },
+  "home": {
+    "hero_heading": "Tongasoa eto amin'ny ASECAM",
+    "hero_subheading": "Manangona ny mpianatra kameroniana eto Madagasikara mba hifampitondrana, hifanampy ary hifampahery.",
+    "cta_join": "Hiditra ho mpikambana",
+    "cta_about": "Momba anay"
+  },
+  "about": {
+    "title": "Momba anay",
+    "history_title": "Ny tantaranay",
+    "mission_title": "Ny iraka"
+  },
+  "services": {
+    "title": "Ny serivisy",
+    "arrival_title": "Fanampiana ny vao tonga",
+    "arrival_desc": "Fitarihana sy fanampiana amin'ny fipetrahan'ny mpianatra kameroniana vao tonga eto Madagasikara.",
+    "networking_title": "Tambajotran-tserasera sy fampidirana asa",
+    "networking_desc": "Fampifandraisana amin'ireo matihanina sy ny fahafahana hiditra amin'ny tsena asa.",
+    "academic_title": "Fitarihana ara-pianarana",
+    "academic_desc": "Torohevitra sy fanohanana amin'ny fisafidianana ny sampana fianarana sy ny fahombiazana.",
+    "directory_title": "Lisitry ny fahaiza-manao",
+    "directory_desc": "Fantaro ny talenta sy ny asa fandraharahana ataon'ireo mpikambana ao amin'ny ASECAM."
+  },
+  "directory": {
+    "title": "Lisitry ny fahaiza-manao sy ny orinasa"
+  },
+  "news": {
+    "title": "Vaovao"
+  },
+  "announcements": {
+    "title": "Filazana"
+  },
+  "contact": {
+    "title": "Fifandraisana",
+    "form_name": "Anarana",
+    "form_email": "Mailaka",
+    "form_subject": "Lohahevitra",
+    "form_message": "Hafatra",
+    "form_submit": "Alefa",
+    "phone": "Finday",
+    "whatsapp": "WhatsApp",
+    "facebook": "Facebook",
+    "email": "Mailaka"
+  },
+  "join": {
+    "heading": "Midira ao amin'ny ASECAM",
+    "text": "Aoka ho anisan'ny fiaraha-monin'ny Kameroniana eto Madagasikara. Miaraka hanorina tambajotram-pifanampiana matanjaka isika.",
+    "cta": "Mifandraisa aminay"
+  },
+  "footer": {
+    "rights": "ASECAM 2026. Tous droits réservés.",
+    "developer": "développé par Gaïus TCHIELONG — +237 6 95 04 41 80 / +261 34 58 079 25 — tchielong@gmail.com"
+  },
+  "newsletter": {
+    "subscribe": "Misoratra anarana amin'ny vaovao",
+    "email_placeholder": "Ny adiresy mailaka",
+    "submit": "Hisoratra anarana"
+  }
+}

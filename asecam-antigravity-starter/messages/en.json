@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "title": "ASECAM — Association of Cameroonian Students in Madagascar",
+    "description": "Official website of ASECAM. Mutual support, guidance and community for Cameroonian students in Madagascar."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About us",
+    "services": "Services",
+    "directory": "Directory",
+    "news": "News",
+    "announcements": "Announcements",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero_heading": "Welcome to ASECAM",
+    "hero_subheading": "Bringing together Cameroonian students in Madagascar to settle in, adapt, support and empower each other.",
+    "cta_join": "Join us",
+    "cta_about": "About us"
+  },
+  "about": {
+    "title": "About us",
+    "history_title": "Our history",
+    "mission_title": "Our mission"
+  },
+  "services": {
+    "title": "Our services",
+    "arrival_title": "Newcomer assistance",
+    "arrival_desc": "Support for settling in and adapting for Cameroonian students newly arrived in Madagascar.",
+    "networking_title": "Networking and professional integration",
+    "networking_desc": "Connecting members with professionals and opportunities to facilitate entry into the job market.",
+    "academic_title": "Academic guidance",
+    "academic_desc": "Advice and support for choosing programmes, enrolment processes and academic success.",
+    "directory_title": "Skills directory",
+    "directory_desc": "Discover the talents and business activities of ASECAM members."
+  },
+  "directory": {
+    "title": "Skills and business directory"
+  },
+  "news": {
+    "title": "News"
+  },
+  "announcements": {
+    "title": "Announcements"
+  },
+  "contact": {
+    "title": "Contact",
+    "form_name": "Name",
+    "form_email": "Email",
+    "form_subject": "Subject",
+    "form_message": "Message",
+    "form_submit": "Send",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "facebook": "Facebook",
+    "email": "Email"
+  },
+  "join": {
+    "heading": "Join ASECAM",
+    "text": "Be part of the Cameroonian community in Madagascar. Together, let's build a strong support network.",
+    "cta": "Contact us"
+  },
+  "footer": {
+    "rights": "ASECAM 2026. Tous droits réservés.",
+    "developer": "développé par Gaïus TCHIELONG — +237 6 95 04 41 80 / +261 34 58 079 25 — tchielong@gmail.com"
+  },
+  "newsletter": {
+    "subscribe": "Subscribe to the newsletter",
+    "email_placeholder": "Your email address",
+    "submit": "Subscribe"
+  }
+}

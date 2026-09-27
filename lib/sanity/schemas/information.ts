@@ -1,0 +1,1 @@
+export default {name:'information',title:'Information',type:'document',fields:[{name:'title',title:'Titre',type:'string'},{name:'date',title:'Date',type:'date'},{name:'body',title:'Corps',type:'text'},{name:'status',title:'Statut',type:'string',options:{list:['à venir','passé']}}]};
